@@ -1,0 +1,2 @@
+# TestLibCocoaPodsSpecs
+CocoaPodsSpecs测试
